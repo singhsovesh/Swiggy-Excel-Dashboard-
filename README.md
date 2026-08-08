@@ -106,13 +106,7 @@ If you modify the dashboard, export a fresh image and replace the placeholder:
 - Slicer-driven interactivity is fully supported only in Excel Desktop; behavior may vary in Excel Online, Excel for Mac, or when opened in Google Sheets.
 - The workbook is not optimized for very large datasets beyond the current ~197K-row scale — further growth may require moving the data model to Power BI or a proper database backend.
 
-## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for version history.
-
-## Contributing
-
-Contributions, suggestions, and issue reports are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
@@ -122,9 +116,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 - Map data: © GeoNames, Microsoft, TomTom (via Excel's built-in mapping feature)
 - Dashboard design/build: [Your Name]
 
-## Contact
 
-Questions, feedback, or interested in collaborating? Reach out via:
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email@example.com]
-- GitHub Issues: use the [Issues tab](../../issues) on this repo

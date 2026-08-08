@@ -2,8 +2,8 @@
 
 An interactive Excel dashboard analyzing food-delivery sales performance — built on transaction-level order data with dynamic slicers, KPI cards, and multi-dimensional trend analysis.
 
-![Swiggy Sales Dashboard](Screenshot 2026-08-08 201106.png) 
-*Replace `images/dashboard_screenshot.png` with your own export if you update the dashboard — see [Setup / Run Instructions](#setup--run-instructions) below.*
+![Swiggy Sales Dashboard](Screenshot%202026-08-08%20201106.png)
+*Replace `Screenshot 2026-08-08 201106.png` with your own export if you update the dashboard — see [Setup / Run Instructions](https://github.com/singhsovesh/Swiggy-Excel-Dashboard-/tree/main#setup--run-instructions) below.*
 
 ---
 
